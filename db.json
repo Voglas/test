@@ -5,7 +5,7 @@
       "id": 1,
       "typeId": 1,
       "title": "cash",
-      "currency": "EUR",
+      "currencyId": "1",
       "summ": 555,
       "description": "incoming payment",
       "date": "12:33 2020-10-12"
@@ -15,7 +15,7 @@
       "id": 2,
       "typeId": 2,
       "title": "cash",
-      "currency": "UAH",
+      "currencyId": "3",
       "summ": 5555,
        "description": "stuff salary",
       "date": "12:33 2020-10-12"
