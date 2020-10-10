@@ -34,5 +34,11 @@
       "logged": false,
       "lastlog": "12:33 2020-10-12"
     }
+  ],
+  "types": [
+    {"name": "incoming",
+    "sign": "+"},
+    {"name": "outcoming",
+    "sign": "-"},
   ]
 }
