@@ -37,8 +37,8 @@
   ],
   "types": [
     {"type": "incoming",
-    "sign": "+"},
+    "sign": ">"},
     {"type": "outcoming",
-    "sign": "-"},
+    "sign": "<"},
   ]
 }
