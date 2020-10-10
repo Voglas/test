@@ -38,7 +38,7 @@
   "types": [
     {"type": "incoming",
     "sign": "+"},
-    {"name": "outcoming",
+    {"type": "outcoming",
     "sign": "-"},
   ]
 }
