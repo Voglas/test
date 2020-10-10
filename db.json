@@ -35,10 +35,4 @@
       "lastlog": "12:33 2020-10-12"
     }
   ],
-  "types": [
-    {"type": "incoming",
-    "sign": ">"},
-    {"type": "outcoming",
-    "sign": "<"},
-  ]
 }
