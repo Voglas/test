@@ -3,7 +3,7 @@
     {
       "userId": 1,
       "id": 1,
-      "typeId": "1",
+      "typeId": 1,
       "title": "cash",
       "currency": "EUR",
       "summ": 555,
@@ -13,7 +13,7 @@
      {
       "userId": 2,
       "id": 2,
-      "typeId": "2",
+      "typeId": 2,
       "title": "cash",
       "currency": "UAH",
       "summ": 5555,
