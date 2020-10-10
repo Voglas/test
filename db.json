@@ -54,12 +54,12 @@
       "shortcut": "€"
     },
      {
-      "id": 1,
+      "id": 2,
       "currency": "USD",
       "shortcut": "$"
     },
     {
-      "id": 2,
+      "id": 3,
       "currency": "UAH",
       "shortcut": "₴"
     }
