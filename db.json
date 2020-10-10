@@ -61,6 +61,26 @@
       "currency": "UAH",
       "shortcut": "₴"
     }
+  ],
+  "statement": [
+    {
+      "id": 1,
+      "currency": "EUR",
+      "shortcut": "€",
+      "summ": "5000"
+    },
+     {
+      "id": 2,
+      "currency": "USD",
+      "shortcut": "$",
+       "summ": "3000"
+    },
+    {
+      "id": 3,
+      "currency": "UAH",
+      "shortcut": "₴",
+      "summ": "35000"
+    }
   ] 
 }
 
