@@ -16,6 +16,12 @@
       "username": "voglas",
       "logged": true,
       "lastlog": "12:33 2020-10-12"
+    },
+        {
+      "id": 2,
+      "username": "pavel",
+      "logged": false,
+      "lastlog": "12:33 2020-10-12"
     }
   ]
 }
