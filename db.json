@@ -46,6 +46,23 @@
       "type": "outcome",
       "typeSign": "-"
     }
+  ],
+  "currencies": [
+    {
+      "id": 1,
+      "currency": "EUR",
+      "shortcut": "€"
+    },
+     {
+      "id": 1,
+      "currency": "USD",
+      "shortcut": "$"
+    },
+    {
+      "id": 2,
+      "currency": "UAH",
+      "shortcut": "₴"
+    }
   ] 
 }
 
