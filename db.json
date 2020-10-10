@@ -7,7 +7,7 @@
       "title": "cash",
       "currency": "EUR",
       "summ": 555,
-      "description": "wdkfjnejkwng eg etuheu",
+      "description": "incoming payment",
       "date": "12:33 2020-10-12"
     },
      {
@@ -17,7 +17,7 @@
       "title": "cash",
       "currency": "UAH",
       "summ": 5555,
-       "description": "wdkfjnejkwng eg etuheu",
+       "description": "stuff salary",
       "date": "12:33 2020-10-12"
     }   
   ],
