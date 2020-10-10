@@ -37,12 +37,12 @@
   ],
    "types": [
     {
-      "typeId": 1,
+      "id": 1,
       "type": "income",
       "typeSign": "+"
     },
     {
-      "typeId": 2,
+      "id": 2,
       "type": "outcome",
       "typeSign": "-"
     }
