@@ -11,6 +11,8 @@
   ],
   "users": {
     "id": 1,
-    "name": "voglas"
+    "username": "voglas",
+    "logged": true,
+    "lastlog": "12:33 2020-10-12"
   }
 }
