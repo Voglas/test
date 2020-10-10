@@ -1,14 +1,23 @@
 {
   "posts": [
     {
-      "id": 1,
       "userId": "1",
+      "id": 1,
       "type": "income",
       "title": "cash",
       "currency": "EUR",
       "summ": 555,
       "date": "12:33 2020-10-12"
-    }
+    },
+     {
+      "userId": "2",
+      "id": 2,
+      "type": "outcome",
+      "title": "cash",
+      "currency": "UAH",
+      "summ": 5555,
+      "date": "12:33 2020-10-12"
+    }   
   ],
   "users": [
     {
