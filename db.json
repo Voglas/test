@@ -67,19 +67,28 @@
       "id": 1,
       "currency": "EUR",
       "shortcut": "€",
-      "summ": "5000"
+      "summ": "5000",
+      "last_action_type":"+",
+      "last_action":"50",
+      "last_action_time":"12:55 12-10-2020" 
     },
      {
       "id": 2,
       "currency": "USD",
       "shortcut": "$",
-       "summ": "3000"
+       "summ": "3000",
+      "last_action_type":"-",
+      "last_action":"500",
+      "last_action_time":"12:15 12-10-2020" 
     },
     {
       "id": 3,
       "currency": "UAH",
       "shortcut": "₴",
-      "summ": "35000"
+      "summ": "35000",
+      "last_action_type":"+",
+      "last_action":"150",
+      "last_action_time":"12:25 12-10-2020" 
     }
   ] 
 }
