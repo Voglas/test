@@ -17,7 +17,16 @@
       "summ": 5555,
        "description": "stuff salary",
       "date": "2020-10-12"
-    }   
+    },
+     {
+      "userId": 1,
+      "id": 3,
+      "typeId": 2,
+      "currencyId": "2",
+      "summ": 10000,
+       "description": " some outgoing payment",
+      "date": "2020-10-14"
+    }      
   ],
   "users": [
     {
